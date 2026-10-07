@@ -16,4 +16,5 @@ Built entirely using Python's standard library (⁠sys⁠, ⁠re⁠) with zero e
 | CREATE | Create table structure | CREATE users(id, name, email); | 
 | INSERT | Validation of data insertion into a table | INSERT INTO users("1", "Ivan", "email"); |
 | SELECT | Request to view data from the table | SELECT FROM users; |
+
 ** All command must end with ;
